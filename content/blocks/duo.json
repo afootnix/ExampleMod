@@ -1,19 +1,19 @@
 {
 	"shootSound": "swings",
 	"ammo": {
-		"copper": "standardCopper",
+		"copper": "standardnuke",
 		"graphite": "standardDense",
 		"pyratite": "standardIncendiary",
 		"silicon": "standardHoming",
 		"electrum": {
 			"speed": 6.0,
-			"damage": 30,
-			"reloadMultiplier": 0.5,
-			"bulletWidth": 7,
-			"bulletHeight": 9,
+			"damage":10,
+			"reloadMultiplier":6,
+			"bulletWidth": 50,
+			"bulletHeight": 100,
 			"shootEffect": "shootSmall",
 			"smokeEffect": "shootSmallSmoke",
-			"ammoMultiplier": 2,
+			"ammoMultiplier": 3,
 			"backColor": "ac7349",
 			"frontColor": "dcd16b"
 		}
